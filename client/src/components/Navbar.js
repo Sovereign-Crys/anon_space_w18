@@ -40,7 +40,7 @@ class Navbar extends React.Component {
     }    
 }
 
-render() {
+render() {    
     return (
         <div>
             <Menu pointing secondary>
